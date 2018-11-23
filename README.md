@@ -28,4 +28,4 @@ $ python main.py
 
 ### 运行效果:
 
-![](http://oo8lgm5bz.bkt.clouddn.com/2018-10-24-word-cloud-demo-comment_cloud.jpg?imageView2/2/w/480)
+![](https://sai628-github-image.oss-cn-shenzhen.aliyuncs.com/2018-10-24-word-cloud-demo-comment_cloud.jpg)
